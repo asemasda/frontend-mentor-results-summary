@@ -1,14 +1,16 @@
 # Frontend Mentor - Results Summary Solution
 
-This is my solution to the **Results Summary Component** challenge on Frontend Mentor. This challenge helped me improve my **HTML, CSS, JavaScript, and responsive design** skills by building a real-world project.
+This is my solution to the **Results Summary Component** challenge on Frontend Mentor. This challenge helped me improve my **HTML, CSS, JavaScript, JSON, and responsive design** skills by building a real-world project.
 
 --
 
 ## 🔗 Live Demo
 
-## 🌍 **Live Site URL**: [Click Here](#)]
+## 🌍 **Live Site URL**: https://results-summary-hub.netlify.app/
 
-📂 **Solution Repository**: [GitHub](#)
+## 📂 **Solution Repository**:[GitHub - asemasda/frontend-mentor-results-summary: My solution for the Frontend Mentor Results Summary Component challenge. Built with HTML, CSS, JavaScript, and JSON for dynamic data handling.](https://github.com/asemasda/frontend-mentor-results-summary)
+
+
 
 --
 
@@ -51,3 +53,18 @@ frontend-mentor-results-summary/
 --
 
 ## How to Run This Project Locally
+
+1️⃣ **Clone the Repository:**
+
+git clone https://github.com/asemasda/frontend-mentor-results-summary
+
+2️⃣ **Open the `index.html` file** in your browser
+
+
+
+--
+
+## 📜 Acknowledgments
+
+- **Challenge by** [Frontend Mentor](https://www.frontendmentor.io/)
+- **Coded by** Asda Asem
